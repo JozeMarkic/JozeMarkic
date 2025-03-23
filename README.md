@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+## My name is Jože Markič and this is where I share with all of you things I work on or experiment with.
+
+#### What you can find here:
+
+* ☁️ Azure
+* 📟 PowerShell
+* 💪 IaC Templates
+* :partly_sunny: Hyper-V
+* ...
+
+#### 📝 My blog
+https://blog.markic.org
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jozemarkic&show_icons=true&theme=transparent)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jozemarkic)](https://github.com/jozemarkic/github-readme-stats)
